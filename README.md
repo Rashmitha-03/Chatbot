@@ -52,14 +52,10 @@ Bot: Goodbye!
 - `main.py` — contains the chatbot logic and GUI
 
 ## Possible Improvements
-- Add a text box for typing custom messages
 - Expand the response database
 - Add more chatbot topics
 - Save chat history to a file
-- Implement more advanced AI/NLP logic
 
-## Notes
-This is a basic project intended for learning and experimentation. It is easy to extend and customize for more complex chatbot behavior.
 
 ---
 
